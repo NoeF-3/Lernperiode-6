@@ -38,8 +38,16 @@ Die Speicherung von Daten (Passwort + Benutzername) in Textdateien mit eventuell
 ### Tagesreflexion
 Ich konnte mich heute nicht besonders gut konzentrieren und kam nicht gut voran. Ich war bei der Speichermethode noch nicht erfolgreich und werde es nächstes Mal verbessern. Ich war zu abgelenkt mit dem kommenden Informatiktest und mit Schulkameraden, ich werde demnach nächstes Mal weniger Probleme haben, weil sie bis dann durch ist.
 
-### Planung 23.10.2026
+### Planung 30.10.2026
 
 - [ ] Speicherungsmethode optimieren
 
 ### Tagesreflexion
+Ich habe mich heute mit dem Modul 346v3 befasst. Spezifisch mit dem Internet Gateway Route Table. Ich konnte heute gut vorankommen. Ich blieb besser dran als letztes Mal, weil ich allgemein weniger Ablenkungen zuliess.
+
+### Planung 06.11.2026
+
+- [ ] Speicherungsmethode optimieren
+
+### Tagesreflexion
+
